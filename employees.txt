@@ -5,3 +5,5 @@ E104 Raj Sales Executive 40000
 E105 Neha IT Tester 42000
 E106 Sarthak IT Coder 90000
 E107 Aman Sales Assistant 25000
+E108 Dev HR Intern 40000
+E109 Shreya Sales Intern 30000
